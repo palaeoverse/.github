@@ -3,7 +3,8 @@
   
 [![Bluesky URL](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&label=Follow%20%40palaeoverse)](https://bsky.app/profile/palaeoverse.bsky.social)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&label=Follow%20%40Palaeoverse)](https://linkedin.com/company/palaeoverse)
-[![project chat](https://img.shields.io/badge/Join_chat-Zulip-brightgreen.svg)](https://palaeoverse.org/zulip/join-zulip/)
+[![project chat](https://img.shields.io/badge/Join_the_community-Zulip-brightgreen.svg)](https://palaeoverse.org/zulip/join-zulip/)
+
 </div>
 
 **[Palaeoverse](https://palaeoverse.org) is a community-driven initiative advancing open science in palaeontology through shared tools, training, and resources.**
